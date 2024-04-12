@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Workspace1" Database="" Version="10000">
+  <Project Name="projectTest" Path="projectTest/projectTest.project" Active="No"/>
+  <Project Name="s3e30" Path="s3e30/s3e30.project" Active="No"/>
+  <Project Name="s4e37inputTerminal" Path="s4e37inputTerminal/s4e37inputTerminal.project" Active="No"/>
+  <Project Name="s5e40enumsAndChars" Path="s5e40enumsAndChars/s5e40enumsAndChars.project" Active="No"/>
+  <Project Name="s5e44areaOfRectangle" Path="s5e44areaOfRectangle/s5e44areaOfRectangle.project" Active="No"/>
+  <Project Name="s5e46" Path="s5e46/s5e46.project" Active="No"/>
+  <Project Name="s6e49" Path="s6e49/s6e49.project" Active="No"/>
+  <Project Name="s6e53" Path="s6e53/s6e53.project" Active="No"/>
+  <Project Name="s7e58" Path="s7e58/s7e58.project" Active="No"/>
+  <Project Name="s7e63Test" Path="s7e63Test/s7e63Test.project" Active="No"/>
+  <Project Name="s7e64guessNumber" Path="s7e64guessNumber/s7e64guessNumber.project" Active="No"/>
+  <Project Name="s8e66arrayTest" Path="s8e66arrayTest/s8e66arrayTest.project" Active="No"/>
+  <Project Name="s8e68printPrimeNums" Path="Workspace1/Workspace1.project" Active="No"/>
+  <Project Name="s8e71rainAverage" Path="s8e71rainAverage/s8e71rainAverage.project" Active="No"/>
+  <Project Name="s9e79functionTests" Path="s9e79functionTests/s9e79functionTests.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="projectTest" ConfigName="Debug"/>
+      <Project Name="s3e30" ConfigName="Debug"/>
+      <Project Name="s4e37inputTerminal" ConfigName="Debug"/>
+      <Project Name="s5e40enumsAndChars" ConfigName="Debug"/>
+      <Project Name="s5e44areaOfRectangle" ConfigName="Debug"/>
+      <Project Name="s5e46" ConfigName="Debug"/>
+      <Project Name="s6e49" ConfigName="Debug"/>
+      <Project Name="s6e53" ConfigName="Debug"/>
+      <Project Name="s7e58" ConfigName="Debug"/>
+      <Project Name="s7e63Test" ConfigName="Debug"/>
+      <Project Name="s7e64guessNumber" ConfigName="Debug"/>
+      <Project Name="s8e66arrayTest" ConfigName="Debug"/>
+      <Project Name="s8e68printPrimeNums" ConfigName="Debug"/>
+      <Project Name="s8e71rainAverage" ConfigName="Debug"/>
+      <Project Name="s9e79functionTests" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="projectTest" ConfigName="Release"/>
+      <Project Name="s3e30" ConfigName="Release"/>
+      <Project Name="s4e37inputTerminal" ConfigName="Release"/>
+      <Project Name="s5e40enumsAndChars" ConfigName="Release"/>
+      <Project Name="s5e44areaOfRectangle" ConfigName="Release"/>
+      <Project Name="s5e46" ConfigName="Release"/>
+      <Project Name="s6e49" ConfigName="Release"/>
+      <Project Name="s6e53" ConfigName="Release"/>
+      <Project Name="s7e58" ConfigName="Release"/>
+      <Project Name="s7e63Test" ConfigName="Release"/>
+      <Project Name="s7e64guessNumber" ConfigName="Release"/>
+      <Project Name="s8e66arrayTest" ConfigName="Release"/>
+      <Project Name="s8e68printPrimeNums" ConfigName="Release"/>
+      <Project Name="s8e71rainAverage" ConfigName="Release"/>
+      <Project Name="s9e79functionTests" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

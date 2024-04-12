@@ -1,0 +1,1 @@
+../build-Debug/s7e64guessNumber/main.c.o: main.c
