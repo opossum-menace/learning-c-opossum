@@ -1,15 +1,16 @@
-/home/opossum/Programming Projects/learning-c-opossum/Workspace1/s9e79functionTests/main.c
-/home/opossum/Programming Projects/learning-c-opossum/Workspace1/s4e37inputTerminal/main.c
-/home/opossum/Programming Projects/learning-c-opossum/Workspace1/s5e40enumsAndChars/main.c
-/home/opossum/Programming Projects/learning-c-opossum/Workspace1/Workspace1/main.c
-/home/opossum/Programming Projects/learning-c-opossum/Workspace1/s5e44areaOfRectangle/main.c
-/home/opossum/Programming Projects/learning-c-opossum/Workspace1/s6e49/main.c
-/home/opossum/Programming Projects/learning-c-opossum/Workspace1/s7e58/main.c
-/home/opossum/Programming Projects/learning-c-opossum/Workspace1/s8e71rainAverage/main.c
-/home/opossum/Programming Projects/learning-c-opossum/Workspace1/projectTest/main.c
-/home/opossum/Programming Projects/learning-c-opossum/Workspace1/s8e66arrayTest/main.c
-/home/opossum/Programming Projects/learning-c-opossum/Workspace1/s5e46/main.c
-/home/opossum/Programming Projects/learning-c-opossum/Workspace1/s6e53/main.c
-/home/opossum/Programming Projects/learning-c-opossum/Workspace1/s3e30/main.c
-/home/opossum/Programming Projects/learning-c-opossum/Workspace1/s7e64guessNumber/main.c
-/home/opossum/Programming Projects/learning-c-opossum/Workspace1/s7e63Test/main.c
+F:\programmingProjects\udemyLearnC\Workspace1\testNewProject\main.c
+F:\programmingProjects\udemyLearnC\Workspace1\s9e79functionTests\main.c
+F:\programmingProjects\udemyLearnC\Workspace1\s8e71rainAverage\main.c
+F:\programmingProjects\udemyLearnC\Workspace1\Workspace1\main.c
+F:\programmingProjects\udemyLearnC\Workspace1\s8e66arrayTest\main.c
+F:\programmingProjects\udemyLearnC\Workspace1\projectTest\main.c
+F:\programmingProjects\udemyLearnC\Workspace1\s7e63Test\main.c
+F:\programmingProjects\udemyLearnC\Workspace1\s6e49\main.c
+F:\programmingProjects\udemyLearnC\Workspace1\s5e46\main.c
+F:\programmingProjects\udemyLearnC\Workspace1\s7e64guessNumber\main.c
+F:\programmingProjects\udemyLearnC\Workspace1\s7e58\main.c
+F:\programmingProjects\udemyLearnC\Workspace1\s5e40enumsAndChars\main.c
+F:\programmingProjects\udemyLearnC\Workspace1\s5e44areaOfRectangle\main.c
+F:\programmingProjects\udemyLearnC\Workspace1\s4e37inputTerminal\main.c
+F:\programmingProjects\udemyLearnC\Workspace1\s3e30\main.c
+F:\programmingProjects\udemyLearnC\Workspace1\s6e53\main.c

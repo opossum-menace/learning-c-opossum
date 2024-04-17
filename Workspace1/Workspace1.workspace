@@ -15,7 +15,7 @@
   <Project Name="s8e68printPrimeNums" Path="Workspace1/Workspace1.project" Active="No"/>
   <Project Name="s8e71rainAverage" Path="s8e71rainAverage/s8e71rainAverage.project" Active="No"/>
   <Project Name="s9e79functionTests" Path="s9e79functionTests/s9e79functionTests.project" Active="Yes"/>
-  <Project Name="testNewProject" Path="testNewProject/testNewProject.project"/>
+  <Project Name="testNewProject" Path="testNewProject/testNewProject.project" Active="No"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>

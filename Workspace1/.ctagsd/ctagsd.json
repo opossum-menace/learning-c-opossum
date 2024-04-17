@@ -1,7 +1,7 @@
 {
  "file_mask": "*.cpp;*.h;*.hpp;*.cxx;*.cc;*.hxx",
  "ignore_spec": "/.git/;/.svn/;/build/;/build-;/CPack_Packages/;/CMakeFiles/",
- "codelite_indexer": "/usr/bin/codelite-ctags",
+ "codelite_indexer": "F:\\Programs\\CodeLite\\codelite-ctags.exe",
  "limit_results": 150,
  "search_path": [".", "/usr/include", "/usr/include/c++/11", "/usr/include/c++/11/backward", "/usr/include/x86_64-linux-gnu", "/usr/include/x86_64-linux-gnu/c++/11", "/usr/lib/gcc/x86_64-linux-gnu/11/include", "/usr/local/include"],
  "types": [{
@@ -930,25 +930,25 @@
    "key": "WXDLLIMPEXP_DATA_CORE(%0)",
    "value": "%0"
   }, {
-   "key": "__WXGTK__",
+   "key": "__WXMSW__",
    "value": "1"
   }, {
-   "key": "__linux__",
+   "key": "_WIN32",
    "value": "1"
   }, {
-   "key": "linux",
+   "key": "_WIN64",
    "value": "1"
   }, {
    "key": "wxTopLevelWindowNative",
-   "value": "wxTopLevelWindowGTK"
-  }, {
-   "key": "wxWindowNative",
-   "value": "wxWindowGTK"
+   "value": "wxTopLevelWindowMSW"
   }, {
    "key": "wxWindow",
-   "value": "wxWindowGTK"
+   "value": "wxWindowMSW"
+  }, {
+   "key": "wxWindowNative",
+   "value": "wxWindowMSW"
   }, {
    "key": "BUTTON_BASE",
-   "value": "wxButton"
+   "value": "wxControl"
   }]
 }

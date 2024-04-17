@@ -158,9 +158,6 @@ double long_div_sqroot(double a)
         digit_count++;
     }
     printf("\ndigit count: %d\n", digit_count);
-	
-	
-	
 
     return 0.2f;
 }
