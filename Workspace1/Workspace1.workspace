@@ -15,6 +15,7 @@
   <Project Name="s8e68printPrimeNums" Path="Workspace1/Workspace1.project" Active="No"/>
   <Project Name="s8e71rainAverage" Path="s8e71rainAverage/s8e71rainAverage.project" Active="No"/>
   <Project Name="s9e79functionTests" Path="s9e79functionTests/s9e79functionTests.project" Active="Yes"/>
+  <Project Name="testNewProject" Path="testNewProject/testNewProject.project"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -33,6 +34,7 @@
       <Project Name="s8e68printPrimeNums" ConfigName="Debug"/>
       <Project Name="s8e71rainAverage" ConfigName="Debug"/>
       <Project Name="s9e79functionTests" ConfigName="Debug"/>
+      <Project Name="testNewProject" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -51,6 +53,7 @@
       <Project Name="s8e68printPrimeNums" ConfigName="Release"/>
       <Project Name="s8e71rainAverage" ConfigName="Release"/>
       <Project Name="s9e79functionTests" ConfigName="Release"/>
+      <Project Name="testNewProject" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>

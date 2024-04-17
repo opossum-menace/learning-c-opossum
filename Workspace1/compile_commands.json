@@ -1,61 +1,61 @@
 [{
-  "file": "F:\\programmingProjects\\udemyLearnC\\Workspace1\\s9e79functionTests\\main.c",
-  "directory": "F:\\programmingProjects\\udemyLearnC\\Workspace1\\s9e79functionTests",
-  "command": "C:/cygwin64/bin/gcc.exe -c F:\\programmingProjects\\udemyLearnC\\Workspace1\\s9e79functionTests\\main.c -o F:\\programmingProjects\\udemyLearnC\\Workspace1\\s9e79functionTests\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+  "file": "/home/opossum/Programming Projects/learning-c-opossum/Workspace1/s9e79functionTests/main.c",
+  "directory": "/home/opossum/Programming Projects/learning-c-opossum/Workspace1/s9e79functionTests",
+  "command": "gcc -c \"/home/opossum/Programming Projects/learning-c-opossum/Workspace1/s9e79functionTests/main.c\" -o \"/home/opossum/Programming Projects/learning-c-opossum/Workspace1/s9e79functionTests/main.c\".o -target x86_64-linux-gnu -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
  }, {
-  "file": "F:\\programmingProjects\\udemyLearnC\\Workspace1\\s8e71rainAverage\\main.c",
-  "directory": "F:\\programmingProjects\\udemyLearnC\\Workspace1\\s8e71rainAverage",
-  "command": "C:/cygwin64/bin/gcc.exe -c F:\\programmingProjects\\udemyLearnC\\Workspace1\\s8e71rainAverage\\main.c -o F:\\programmingProjects\\udemyLearnC\\Workspace1\\s8e71rainAverage\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+  "file": "/home/opossum/Programming Projects/learning-c-opossum/Workspace1/s4e37inputTerminal/main.c",
+  "directory": "/home/opossum/Programming Projects/learning-c-opossum/Workspace1/s4e37inputTerminal",
+  "command": "gcc -c \"/home/opossum/Programming Projects/learning-c-opossum/Workspace1/s4e37inputTerminal/main.c\" -o \"/home/opossum/Programming Projects/learning-c-opossum/Workspace1/s4e37inputTerminal/main.c\".o -target x86_64-linux-gnu -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
  }, {
-  "file": "F:\\programmingProjects\\udemyLearnC\\Workspace1\\Workspace1\\main.c",
-  "directory": "F:\\programmingProjects\\udemyLearnC\\Workspace1\\Workspace1",
-  "command": "C:/cygwin64/bin/gcc.exe -c F:\\programmingProjects\\udemyLearnC\\Workspace1\\Workspace1\\main.c -o F:\\programmingProjects\\udemyLearnC\\Workspace1\\Workspace1\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+  "file": "/home/opossum/Programming Projects/learning-c-opossum/Workspace1/s5e40enumsAndChars/main.c",
+  "directory": "/home/opossum/Programming Projects/learning-c-opossum/Workspace1/s5e40enumsAndChars",
+  "command": "gcc -c \"/home/opossum/Programming Projects/learning-c-opossum/Workspace1/s5e40enumsAndChars/main.c\" -o \"/home/opossum/Programming Projects/learning-c-opossum/Workspace1/s5e40enumsAndChars/main.c\".o -target x86_64-linux-gnu -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
  }, {
-  "file": "F:\\programmingProjects\\udemyLearnC\\Workspace1\\s8e66arrayTest\\main.c",
-  "directory": "F:\\programmingProjects\\udemyLearnC\\Workspace1\\s8e66arrayTest",
-  "command": "C:/cygwin64/bin/gcc.exe -c F:\\programmingProjects\\udemyLearnC\\Workspace1\\s8e66arrayTest\\main.c -o F:\\programmingProjects\\udemyLearnC\\Workspace1\\s8e66arrayTest\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+  "file": "/home/opossum/Programming Projects/learning-c-opossum/Workspace1/Workspace1/main.c",
+  "directory": "/home/opossum/Programming Projects/learning-c-opossum/Workspace1/Workspace1",
+  "command": "gcc -c \"/home/opossum/Programming Projects/learning-c-opossum/Workspace1/Workspace1/main.c\" -o \"/home/opossum/Programming Projects/learning-c-opossum/Workspace1/Workspace1/main.c\".o -target x86_64-linux-gnu -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
  }, {
-  "file": "F:\\programmingProjects\\udemyLearnC\\Workspace1\\projectTest\\main.c",
-  "directory": "F:\\programmingProjects\\udemyLearnC\\Workspace1\\projectTest",
-  "command": "C:/cygwin64/bin/gcc.exe -c F:\\programmingProjects\\udemyLearnC\\Workspace1\\projectTest\\main.c -o F:\\programmingProjects\\udemyLearnC\\Workspace1\\projectTest\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+  "file": "/home/opossum/Programming Projects/learning-c-opossum/Workspace1/s5e44areaOfRectangle/main.c",
+  "directory": "/home/opossum/Programming Projects/learning-c-opossum/Workspace1/s5e44areaOfRectangle",
+  "command": "gcc -c \"/home/opossum/Programming Projects/learning-c-opossum/Workspace1/s5e44areaOfRectangle/main.c\" -o \"/home/opossum/Programming Projects/learning-c-opossum/Workspace1/s5e44areaOfRectangle/main.c\".o -target x86_64-linux-gnu -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
  }, {
-  "file": "F:\\programmingProjects\\udemyLearnC\\Workspace1\\s7e63Test\\main.c",
-  "directory": "F:\\programmingProjects\\udemyLearnC\\Workspace1\\s7e63Test",
-  "command": "C:/cygwin64/bin/gcc.exe -c F:\\programmingProjects\\udemyLearnC\\Workspace1\\s7e63Test\\main.c -o F:\\programmingProjects\\udemyLearnC\\Workspace1\\s7e63Test\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+  "file": "/home/opossum/Programming Projects/learning-c-opossum/Workspace1/s6e49/main.c",
+  "directory": "/home/opossum/Programming Projects/learning-c-opossum/Workspace1/s6e49",
+  "command": "gcc -c \"/home/opossum/Programming Projects/learning-c-opossum/Workspace1/s6e49/main.c\" -o \"/home/opossum/Programming Projects/learning-c-opossum/Workspace1/s6e49/main.c\".o -target x86_64-linux-gnu -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
  }, {
-  "file": "F:\\programmingProjects\\udemyLearnC\\Workspace1\\s6e49\\main.c",
-  "directory": "F:\\programmingProjects\\udemyLearnC\\Workspace1\\s6e49",
-  "command": "C:/cygwin64/bin/gcc.exe -c F:\\programmingProjects\\udemyLearnC\\Workspace1\\s6e49\\main.c -o F:\\programmingProjects\\udemyLearnC\\Workspace1\\s6e49\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+  "file": "/home/opossum/Programming Projects/learning-c-opossum/Workspace1/s7e58/main.c",
+  "directory": "/home/opossum/Programming Projects/learning-c-opossum/Workspace1/s7e58",
+  "command": "gcc -c \"/home/opossum/Programming Projects/learning-c-opossum/Workspace1/s7e58/main.c\" -o \"/home/opossum/Programming Projects/learning-c-opossum/Workspace1/s7e58/main.c\".o -target x86_64-linux-gnu -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
  }, {
-  "file": "F:\\programmingProjects\\udemyLearnC\\Workspace1\\s5e46\\main.c",
-  "directory": "F:\\programmingProjects\\udemyLearnC\\Workspace1\\s5e46",
-  "command": "C:/cygwin64/bin/gcc.exe -c F:\\programmingProjects\\udemyLearnC\\Workspace1\\s5e46\\main.c -o F:\\programmingProjects\\udemyLearnC\\Workspace1\\s5e46\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+  "file": "/home/opossum/Programming Projects/learning-c-opossum/Workspace1/s8e71rainAverage/main.c",
+  "directory": "/home/opossum/Programming Projects/learning-c-opossum/Workspace1/s8e71rainAverage",
+  "command": "gcc -c \"/home/opossum/Programming Projects/learning-c-opossum/Workspace1/s8e71rainAverage/main.c\" -o \"/home/opossum/Programming Projects/learning-c-opossum/Workspace1/s8e71rainAverage/main.c\".o -target x86_64-linux-gnu -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
  }, {
-  "file": "F:\\programmingProjects\\udemyLearnC\\Workspace1\\s7e64guessNumber\\main.c",
-  "directory": "F:\\programmingProjects\\udemyLearnC\\Workspace1\\s7e64guessNumber",
-  "command": "C:/cygwin64/bin/gcc.exe -c F:\\programmingProjects\\udemyLearnC\\Workspace1\\s7e64guessNumber\\main.c -o F:\\programmingProjects\\udemyLearnC\\Workspace1\\s7e64guessNumber\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+  "file": "/home/opossum/Programming Projects/learning-c-opossum/Workspace1/projectTest/main.c",
+  "directory": "/home/opossum/Programming Projects/learning-c-opossum/Workspace1/projectTest",
+  "command": "gcc -c \"/home/opossum/Programming Projects/learning-c-opossum/Workspace1/projectTest/main.c\" -o \"/home/opossum/Programming Projects/learning-c-opossum/Workspace1/projectTest/main.c\".o -target x86_64-linux-gnu -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
  }, {
-  "file": "F:\\programmingProjects\\udemyLearnC\\Workspace1\\s7e58\\main.c",
-  "directory": "F:\\programmingProjects\\udemyLearnC\\Workspace1\\s7e58",
-  "command": "C:/cygwin64/bin/gcc.exe -c F:\\programmingProjects\\udemyLearnC\\Workspace1\\s7e58\\main.c -o F:\\programmingProjects\\udemyLearnC\\Workspace1\\s7e58\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+  "file": "/home/opossum/Programming Projects/learning-c-opossum/Workspace1/s8e66arrayTest/main.c",
+  "directory": "/home/opossum/Programming Projects/learning-c-opossum/Workspace1/s8e66arrayTest",
+  "command": "gcc -c \"/home/opossum/Programming Projects/learning-c-opossum/Workspace1/s8e66arrayTest/main.c\" -o \"/home/opossum/Programming Projects/learning-c-opossum/Workspace1/s8e66arrayTest/main.c\".o -target x86_64-linux-gnu -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
  }, {
-  "file": "F:\\programmingProjects\\udemyLearnC\\Workspace1\\s5e40enumsAndChars\\main.c",
-  "directory": "F:\\programmingProjects\\udemyLearnC\\Workspace1\\s5e40enumsAndChars",
-  "command": "C:/cygwin64/bin/gcc.exe -c F:\\programmingProjects\\udemyLearnC\\Workspace1\\s5e40enumsAndChars\\main.c -o F:\\programmingProjects\\udemyLearnC\\Workspace1\\s5e40enumsAndChars\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+  "file": "/home/opossum/Programming Projects/learning-c-opossum/Workspace1/s5e46/main.c",
+  "directory": "/home/opossum/Programming Projects/learning-c-opossum/Workspace1/s5e46",
+  "command": "gcc -c \"/home/opossum/Programming Projects/learning-c-opossum/Workspace1/s5e46/main.c\" -o \"/home/opossum/Programming Projects/learning-c-opossum/Workspace1/s5e46/main.c\".o -target x86_64-linux-gnu -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
  }, {
-  "file": "F:\\programmingProjects\\udemyLearnC\\Workspace1\\s5e44areaOfRectangle\\main.c",
-  "directory": "F:\\programmingProjects\\udemyLearnC\\Workspace1\\s5e44areaOfRectangle",
-  "command": "C:/cygwin64/bin/gcc.exe -c F:\\programmingProjects\\udemyLearnC\\Workspace1\\s5e44areaOfRectangle\\main.c -o F:\\programmingProjects\\udemyLearnC\\Workspace1\\s5e44areaOfRectangle\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+  "file": "/home/opossum/Programming Projects/learning-c-opossum/Workspace1/s6e53/main.c",
+  "directory": "/home/opossum/Programming Projects/learning-c-opossum/Workspace1/s6e53",
+  "command": "gcc -c \"/home/opossum/Programming Projects/learning-c-opossum/Workspace1/s6e53/main.c\" -o \"/home/opossum/Programming Projects/learning-c-opossum/Workspace1/s6e53/main.c\".o -target x86_64-linux-gnu -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall  -O0  -gdwarf-2  -std=c99  -Wall"
  }, {
-  "file": "F:\\programmingProjects\\udemyLearnC\\Workspace1\\s4e37inputTerminal\\main.c",
-  "directory": "F:\\programmingProjects\\udemyLearnC\\Workspace1\\s4e37inputTerminal",
-  "command": "C:/cygwin64/bin/gcc.exe -c F:\\programmingProjects\\udemyLearnC\\Workspace1\\s4e37inputTerminal\\main.c -o F:\\programmingProjects\\udemyLearnC\\Workspace1\\s4e37inputTerminal\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+  "file": "/home/opossum/Programming Projects/learning-c-opossum/Workspace1/s3e30/main.c",
+  "directory": "/home/opossum/Programming Projects/learning-c-opossum/Workspace1/s3e30",
+  "command": "gcc -c \"/home/opossum/Programming Projects/learning-c-opossum/Workspace1/s3e30/main.c\" -o \"/home/opossum/Programming Projects/learning-c-opossum/Workspace1/s3e30/main.c\".o -target x86_64-linux-gnu -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
  }, {
-  "file": "F:\\programmingProjects\\udemyLearnC\\Workspace1\\s3e30\\main.c",
-  "directory": "F:\\programmingProjects\\udemyLearnC\\Workspace1\\s3e30",
-  "command": "C:/cygwin64/bin/gcc.exe -c F:\\programmingProjects\\udemyLearnC\\Workspace1\\s3e30\\main.c -o F:\\programmingProjects\\udemyLearnC\\Workspace1\\s3e30\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+  "file": "/home/opossum/Programming Projects/learning-c-opossum/Workspace1/s7e64guessNumber/main.c",
+  "directory": "/home/opossum/Programming Projects/learning-c-opossum/Workspace1/s7e64guessNumber",
+  "command": "gcc -c \"/home/opossum/Programming Projects/learning-c-opossum/Workspace1/s7e64guessNumber/main.c\" -o \"/home/opossum/Programming Projects/learning-c-opossum/Workspace1/s7e64guessNumber/main.c\".o -target x86_64-linux-gnu -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
  }, {
-  "file": "F:\\programmingProjects\\udemyLearnC\\Workspace1\\s6e53\\main.c",
-  "directory": "F:\\programmingProjects\\udemyLearnC\\Workspace1\\s6e53",
-  "command": "C:/cygwin64/bin/gcc.exe -c F:\\programmingProjects\\udemyLearnC\\Workspace1\\s6e53\\main.c -o F:\\programmingProjects\\udemyLearnC\\Workspace1\\s6e53\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall  -O0  -gdwarf-2  -std=c99  -Wall"
+  "file": "/home/opossum/Programming Projects/learning-c-opossum/Workspace1/s7e63Test/main.c",
+  "directory": "/home/opossum/Programming Projects/learning-c-opossum/Workspace1/s7e63Test",
+  "command": "gcc -c \"/home/opossum/Programming Projects/learning-c-opossum/Workspace1/s7e63Test/main.c\" -o \"/home/opossum/Programming Projects/learning-c-opossum/Workspace1/s7e63Test/main.c\".o -target x86_64-linux-gnu -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
  }]
