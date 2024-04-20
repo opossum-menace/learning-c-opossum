@@ -14,8 +14,9 @@
   <Project Name="s8e66arrayTest" Path="s8e66arrayTest/s8e66arrayTest.project" Active="No"/>
   <Project Name="s8e68printPrimeNums" Path="Workspace1/Workspace1.project" Active="No"/>
   <Project Name="s8e71rainAverage" Path="s8e71rainAverage/s8e71rainAverage.project" Active="No"/>
-  <Project Name="s9e79functionTests" Path="s9e79functionTests/s9e79functionTests.project" Active="Yes"/>
+  <Project Name="s9e79functionTests" Path="s9e79functionTests/s9e79functionTests.project" Active="No"/>
   <Project Name="testNewProject" Path="testNewProject/testNewProject.project" Active="No"/>
+  <Project Name="testNewProjectGithub" Path="testNewProjectGithub/testNewProjectGithub.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -35,6 +36,7 @@
       <Project Name="s8e71rainAverage" ConfigName="Debug"/>
       <Project Name="s9e79functionTests" ConfigName="Debug"/>
       <Project Name="testNewProject" ConfigName="Debug"/>
+      <Project Name="testNewProjectGithub" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -54,6 +56,7 @@
       <Project Name="s8e71rainAverage" ConfigName="Release"/>
       <Project Name="s9e79functionTests" ConfigName="Release"/>
       <Project Name="testNewProject" ConfigName="Release"/>
+      <Project Name="testNewProjectGithub" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
